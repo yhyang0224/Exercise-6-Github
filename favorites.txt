@@ -1,6 +1,11 @@
+FOODS
+==========
 Apple
 Avocado
 Banana
+
+MOVIES
+==========
 About Time
 Inception
 Batman
